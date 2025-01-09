@@ -1,9 +1,10 @@
+Nursery Songs
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Autoplay YouTube Videos in Loop</title>
+    <title>Video Player</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -13,6 +14,7 @@
         #player {
             width: 709px; /* Set width to match your iframe */
             height: 399px; /* Set height to match your iframe */
+            margin: 0 auto;
         }
         button {
             margin-top: 20px;
@@ -20,11 +22,17 @@
             font-size: 16px;
             cursor: pointer;
         }
+        marquee {
+            margin-top: 20px;
+            font-size: 18px;
+            color: blue;
+        }
     </style>
 </head>
 <body>
-    <h1>Autoplay YouTube Videos in Loop</h1>
     <div id="player"></div>
+    <marquee id="videoName">Karadi Mama</marquee>
+    <button id="prevButton">Previous Video</button>
     <button id="nextButton">Next Video</button>
 
     <script>
@@ -36,7 +44,8 @@
 
         // Create a YouTube player variable
         var player;
-        var videoIds = ['_WBnUl32GTs', 'DPp9pyUzo7c', 'pQH9ip2Whc4']; // Array of video IDs
+        var videoIds = ['_WBnUl32GTs', 'DPp9pyUzo7c', 'pQH9ip2Whc4', 'QSQkEzEUzSQ', 'qfQw62_oNu8']; // Array of video IDs
+        var videoNames = ['Karadi Mama', 'Kurangu Mama', 'Balloon', 'Kuruvi Paranthu', 'Kokkarakko']; // Array of video names
         var currentVideoIndex = 0;
 
         // This function creates an <iframe> (and YouTube player)
@@ -54,6 +63,7 @@
                     'onStateChange': onPlayerStateChange
                 }
             });
+            updateVideoName();
         }
 
         // The API will call this function when the player's state changes
@@ -61,6 +71,7 @@
             if (event.data === YT.PlayerState.ENDED) {
                 currentVideoIndex = (currentVideoIndex + 1) % videoIds.length; // Move to the next video
                 player.loadVideoById(videoIds[currentVideoIndex]); // Load the next video
+                updateVideoName();
             }
         }
 
@@ -68,7 +79,21 @@
         document.getElementById('nextButton').addEventListener('click', function() {
             currentVideoIndex = (currentVideoIndex + 1) % videoIds.length; // Move to the next video
             player.loadVideoById(videoIds[currentVideoIndex]); // Load the next video
+            updateVideoName();
         });
+
+        // Event listener for the Previous Video button
+        document.getElementById('prevButton').addEventListener('click', function() {
+            currentVideoIndex = (currentVideoIndex - 1 + videoIds.length) % videoIds.length; // Move to the previous video
+            player.loadVideoById(videoIds[currentVideoIndex]); // Load the previous video
+            updateVideoName();
+        });
+
+        // Function to update the video name in the marquee
+        function updateVideoName() {
+            document.getElementById('videoName').textContent = videoNames[currentVideoIndex];
+        }
     </script>
 </body>
 </html>
+```
