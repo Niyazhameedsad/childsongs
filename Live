@@ -84,14 +84,9 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NickHDPlus.in",Nick HD+
-http://103.68.28.58:5001/live/1226.m3u8
-
 #EXTINF:-1 tvg-id="NickHDPlus.in",Nick HD+ (1080p)
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="NickJr.in",Nick Jr India (1080p)
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="NickelodeonSonic.in",Nickelodeon Sonic Hindi (1080p)
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
@@ -132,9 +127,6 @@ https://edge3-moblive.yuppcdn.net/drm/smil:aljazeeradrm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TenCricket" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/jyiuvy.png",Ten Cricket
 https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="StarSports1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png",Star Sports 1
-https://edge3-moblive.yuppcdn.net/drm1/smil:starsports1drm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TenCricket" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/cvfvpl.png",Ten Cricket
 https://edge3-moblive.yuppcdn.net/drm/smil:peosportsdrm.smil/playlist.m3u8
