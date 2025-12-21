@@ -71,7 +71,7 @@ https://edge3-moblive.yuppcdn.net/drm/smil:musicplus.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sri Lanka" tvg-id="KalaignarTV" tvg-logo="https://edge3-moblive.yuppcdn.net/drm/smil:kalaignartv.smil/playlist.m3u8",Kalaignar TV
 https://edge3-moblive.yuppcdn.net/drm/smil:kalaignartv.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Sri Lanka" tvg-id="IsaiAruviTV" tvg-logo="https://edge3-moblive.yuppcdn.net/drm/smil:isaiaurivitv.smil/playlist.m3u8",Isai Aruvi TV
+#EXTINF:-1 group-title="India" tvg-id="IsaiAruviTV" tvg-logo="https://edge3-moblive.yuppcdn.net/drm/smil:isaiaurivitv.smil/playlist.m3u8",Isai Aruvi TV
 https://edge3-moblive.yuppcdn.net/drm/smil:isaiaurivitv.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Sri Lanka" tvg-id="SirippoliTV" tvg-logo="https://edge3-moblive.yuppcdn.net/drm/smil:sirippoli.smil/playlist.m3u8",Sirippoli TV
