@@ -12,7 +12,7 @@ https://edge3-moblive.yuppcdn.net/drm/smil:itndrm.smil/playlist.m3u8
 https://edge3-moblive.yuppcdn.net/drm1/smil:vasanthamtvdrm.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="TVDerana" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/derana.png",TV Derana
-https://edge3-moblive.yuppcdn.net/drm/smil:deranatvdrm.smil/playlist.m3u8
+https://edge3-moblive.yuppcdn.net/drm1/smil:deranatvdrm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Swarnavahini" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ddcjju.png",Swarnavahini
 https://edge4-moblive.yuppcdn.net/transsd/smil:swani06.smil/playlist.m3u8?dvr
