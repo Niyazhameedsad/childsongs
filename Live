@@ -1,80 +1,143 @@
 #EXTM3U
-#EXTINF:-1 group-title="Sri Lanka" tvg-id="Rupavahini" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/rupavahini.png",Rupavahini
-https://edge3-moblive.yuppcdn.net/drm/smil:rupavahini.drm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Rupavahini" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/rupavahini.png",Rupavahini
+https://edge3-moblive.yuppcdn.net/drm/smil:rupavahinidrm.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Sri Lanka" tvg-id="ChannelEye" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/fhuhab.png",Channel Eye
+#EXTINF:-1 tvg-id="ChannelEye" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/fhuhab.png",Channel Eye
 https://edge3-moblive.yuppcdn.net/drm1/smil:nethradrm.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Sri Lanka" tvg-id="ITN" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ducchq.png",ITN
+#EXTINF:-1 tvg-id="ITN" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ducchq.png",ITN
 https://edge3-moblive.yuppcdn.net/drm/smil:itndrm.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Sri Lanka" tvg-id="VasanthamTV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ngfsik.png",Vasantham TV
+#EXTINF:-1 tvg-id="VasanthamTV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ngfsik.png",Vasantham TV
 https://edge3-moblive.yuppcdn.net/drm1/smil:vasanthamtvdrm.smil/index.m3u8
 
-#EXTINF:-1 group-title="Sri Lanka" tvg-id="TVDerana" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/derana.png",TV Derana
-https://edge3-moblive.yuppcdn.net/drm1/smil:deranatvdsm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDerana" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/derana.png",TV Derana
+https://edge3-moblive.yuppcdn.net/drm1/smil:deranatvdrm.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Sri Lanka" tvg-id="Swarnavahini" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ddcjuju.png",Swarnavahini
+#EXTINF:-1 tvg-id="Swarnavahini" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ddcjju.png",Swarnavahini
 https://edge4-moblive.yuppcdn.net/transsd/smil:swani06.smil/playlist.m3u8?dvr
 
-#EXTINF:-1 group-title="Sri Lanka" tvg-id="HiruTV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/hiru-tv.png",Hiru TV
+#EXTINF:-1 tvg-id="HiruTV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/hiru-tv.png",Hiru TV
 https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
 
-#EXTINF:-1 group-title="Sri Lanka" tvg-id="SiyathaTV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/twchqn.png",Siyatha TV
-https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
+#EXTINF:-1 tvg-id="Siyatha-TV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/twchnq.png",Siyatha TV
+https://edge3-moblive.yuppcdn.net/drm/smil:siyathatvdrm.smil/index.m3u8
 
-#EXTINF:-1 group-title="Sri Lanka" tvg-id="SirasaTV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/twchqn.png",Sirasa TV
-https://edge3-moblive.yuppcdn.net/drm/smil:sirasatvdrm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Sirasa-TV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ucihva.png",Sirasa TV
+https://edge3-moblive.yuppcdn.net/drm/smil:sirasatvdrm.smil/index.m3u8
 
-#EXTINF:-1 group-title="Sri Lanka" tvg-id="ShakthiTV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/dmikwb.png",Shakthi TV
+
+#EXTINF:-1 tvg-id="ShakthiTV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/dmikwb.png",Shakthi TV
 https://edge3-moblive.yuppcdn.net/drm/smil:shakthitvdrm.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Sri Lanka" tvg-id="Supreme" tvg-logo="https://edge3-moblive.yuppcdn.net/drm/smil:tnldrm.smil/index.m3u8",Supreme
+
+#EXTINF:-1 tvg-id="Supreme-TV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/toilov.png",Supreme
 https://edge3-moblive.yuppcdn.net/drm/smil:tnldrm.smil/index.m3u8
 
-#EXTINF:-1 group-title="Sri Lanka" tvg-id="CHARANATV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/djwqoh.png",CHARANA TV
+
+#EXTINF:-1 tvg-id="CHARANATV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/djwqoh.png",CHARANA TV
 https://edge3-moblive.yuppcdn.net/drm/smil:charanadrm.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Sri Lanka" tvg-id="ThreeVision" tvg-logo="https://edge3-moblive.yuppcdn.net/drm/smil:knowledgetvdrm.smil/playlist.m3u8",Three Vision
+#EXTINF:-1 tvg-id="ThreeVision" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/wiyovh.png",Three Vision
 https://edge3-moblive.yuppcdn.net/drm/smil:knowledgetvdrm.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Sri Lanka" tvg-id="TV1" tvg-logo="https://edge3-moblive.yuppcdn.net/drm1/smil:tv1drm.smil/playlist.m3u8",TV1
+#EXTINF:-1 tvg-id="TV1" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/vjtiwc.png",TV1
 https://edge3-moblive.yuppcdn.net/drm1/smil:tv1drm.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Sri Lanka" tvg-id="EventTV" tvg-logo="https://edge3-moblive.yuppcdn.net/drm/smil:eventtvdm.smil/playlist.m3u8",Event TV
-https://edge3-moblive.yuppcdn.net/drm/smil:eventtvdm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="EventTV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/event-tv.png",Event TV
+https://edge3-moblive.yuppcdn.net/drm/smil:eventtvdrm.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Sri Lanka" tvg-id="StarTamil" tvg-logo="https://edge3-moblive.yuppcdn.net/drm/smil:star-tamil.smil/playlist.m3u8",Star Tamil
-https://edge3-moblive.yuppcdn.net/drm/smil:star-tamil.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="StarTamil" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/vztqoe.png",Star Tamil
+https://edge3-moblive.yuppcdn.net/drm1/smil:startamildrm.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Sri Lanka" tvg-id="JayaTV" tvg-logo="https://edge3-moblive.yuppcdn.net/drm/smil:jayamagatdrm.smil/playlist.m3u8",Jaya TV
-https://edge3-moblive.yuppcdn.net/drm/smil:jayamagatdrm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="JayaTV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ppkeyw.png",Jaya TV
+https://edge3-moblive.yuppcdn.net/drm/smil:jayamagatvdrm.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Sri Lanka" tvg-id="ParliamentChannel" tvg-logo="https://edge3-moblive.yuppcdn.net/drm/smil:parliamentdrm.smil/playlist.m3u8",Parliament Channel
-https://edge3-moblive.yuppcdn.net/drm/smil:parliamentdrm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ParliamentChannel" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/parliament-channel.png",Parliament Channel
+https://edge3-moblive.yuppcdn.net/drm/smil:parliamentchanneldrm.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Sri Lanka" tvg-id="EventTVPlus" tvg-logo="https://edge3-moblive.yuppcdn.net/drm/smil:eventtvplusdrm.smil/playlist.m3u8",Event TV Plus
+#EXTINF:-1 tvg-id="EventTVPlus " tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/event-tv-plus.png",Event TV Plus
 https://edge3-moblive.yuppcdn.net/drm/smil:eventtvplusdrm.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Sri Lanka" tvg-id="SLTMobileGroupWatch" tvg-logo="https://edge3-moblive.yuppcdn.net/drm/smil:sltgroupwatch.smil/playlist.m3u8",SLT Mobile Group Watch
-https://edge3-moblive.yuppcdn.net/drm/smil:sltgroupwatch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SLTMobitelGroupWatch" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/twkwpt.png",SLTMobitel Group Watch
+https://edge3-moblive.yuppcdn.net/transsd/smil:sltgroupwatchaes.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Sri Lanka" tvg-id="NethraTV" tvg-logo="https://edge3-moblive.yuppcdn.net/drm/smil:nethra.smil/playlist.m3u8",Nethra TV
-https://edge3-moblive.yuppcdn.net/drm/smil:nethra.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NethraTV " tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/udbacm.png",Nethra TV
+https://edge3-moblive.yuppcdn.net/drm1/smil:nethradrm.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Sri Lanka" tvg-id="AndFlix" tvg-logo="https://edge3-moblive.yuppcdn.net/drm/smil:andflix.smil/playlist.m3u8",AndFlix
-https://edge3-moblive.yuppcdn.net/drm/smil:andflix.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AndFlix" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/nflix-nflix.png",And Flix
+https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/manifest.m3u8
 
-#EXTINF:-1 group-title="Sri Lanka" tvg-id="MusicPlus" tvg-logo="https://edge3-moblive.yuppcdn.net/drm/smil:musicplus.smil/playlist.m3u8",Music Plus Television
-https://edge3-moblive.yuppcdn.net/drm/smil:musicplus.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MusicPlusTelevision" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/music-television.png",Music Plus Television
+https://edge3-moblive.yuppcdn.net/drm1/smil:musicplustvdrm.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Sri Lanka" tvg-id="KalaignarTV" tvg-logo="https://edge3-moblive.yuppcdn.net/drm/smil:kalaignartv.smil/playlist.m3u8",Kalaignar TV
-https://edge3-moblive.yuppcdn.net/drm/smil:kalaignartv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KalaignarTV " tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/kalaignar-tv.png",Kalaignar TV 
+https://edge3-moblive.yuppcdn.net/drm1/smil:kalaignartvdrm.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="India" tvg-id="IsaiAruviTV" tvg-logo="https://edge3-moblive.yuppcdn.net/drm/smil:isaiaurivitv.smil/playlist.m3u8",Isai Aruvi TV
-https://edge3-moblive.yuppcdn.net/drm/smil:isaiaurivitv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="IsaiaruviTV " tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/isaiaruvi-tv.png",Isaiaruvi TV
+https://edge3-moblive.yuppcdn.net/drm1/smil:isaiaruvitvdrm.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Sri Lanka" tvg-id="SirippoliTV" tvg-logo="https://edge3-moblive.yuppcdn.net/drm/smil:sirippoli.smil/playlist.m3u8",Sirippoli TV
-https://edge3-moblive.yuppcdn.net/drm/smil:sirippoli.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SirippoliTV  " tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/sirippoli-tv.png",Sirippoli TV
+https://edge3-moblive.yuppcdn.net/drm1/smil:sirippolitvdrm.smil/playlist.m3u8
 
-# The rest of the file kept unchanged. (Preserved original non-Sri-Lankan entries)
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
+
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NickHDPlus.in",Nick HD+
+http://103.68.28.58:5001/live/1226.m3u8
+
+#EXTINF:-1 tvg-id="NickHDPlus.in",Nick HD+ (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.in",Nick Jr India (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonSonic.in",Nickelodeon Sonic Hindi (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="",Star Family (576p) [Not 24/7]
+http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
+
+#EXTINF:-1 tvg-id="StarGold.in" http-user-agent="stream",Star Gold HD (1080p)
+#EXTVLCOPT:http-user-agent=stream
+http://103.81.104.118/hls/stream19.m3u8
+
+#EXTINF:-1 tvg-id="Starnet.in",Starnet (480p)
+https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
+
+#EXTINF:-1 tvg-id="B4UMoviesIndia.in",B4U Movies India (576p)
+http://183.89.246.119:8881/play/a08n/index.m3u8
+
+#EXTINF:-1 tvg-id="Filmeraa.in",Filmeraa (720p)
+https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.in",Disney Junior India (576p)
+http://103.124.251.164:28015/play/a02m/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO2East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/512px-HBO_2_%282014%29.svg.png",HBO 2 East
+https://fl5.moveonjoy.com/HBO_2/index.m3u8
+
+#EXTINF:-1 tvg-id="3TamilTV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nZG4BRWT5t0eCtM-SFVh0JMexLekw0evo-J4_S8Bw3YA=s512-c-k-c0x00ffffff-no-rj" ,3 Tamil TV
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="AdaDerana24X7" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ada-derana-24.png",AdaDerana 24X7
+https://edge3-moblive.yuppcdn.net/drm/smil:adaderana24drm.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TimesNow" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/qigtck.png",Times Now
+https://edge3-moblive.yuppcdn.net/drm/smil:timesnowdrm.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ALJAZEERA" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/aljazeera-aljazeera.png",ALJAZEERA
+https://edge3-moblive.yuppcdn.net/drm/smil:aljazeeradrm.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TenCricket" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/jyiuvy.png",Ten Cricket
+https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarSports1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png",Star Sports 1
+https://edge3-moblive.yuppcdn.net/drm1/smil:starsports1drm.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TenCricket" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/cvfvpl.png",Ten Cricket
+https://edge3-moblive.yuppcdn.net/drm/smil:peosportsdrm.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NikkyTV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/rrrplb.png",Nikky TV
+https://edge3-moblive.yuppcdn.net/drm/smil:planetfundrm.smil/playlist.m3u8
