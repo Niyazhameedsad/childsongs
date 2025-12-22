@@ -71,8 +71,7 @@ https://edge3-moblive.yuppcdn.net/drm1/smil:isaiaruvitvdrm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SirippoliTV  " tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/sirippoli-tv.png",Sirippoli TV
 https://edge3-moblive.yuppcdn.net/drm1/smil:sirippolitvdrm.smil/playlist.m3u8
-
-https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NickHDPlus.in",Nick HD+ (1080p)
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
@@ -110,14 +109,13 @@ https://edge3-moblive.yuppcdn.net/drm/smil:adaderana24drm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TimesNow" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/qigtck.png",Times Now
 https://edge3-moblive.yuppcdn.net/drm/smil:timesnowdrm.smil/playlist.m3u8
 
-#EXTINF:- tvg-id="ALJAZEERA" tvg-logo=https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/aljazeera-aljazeera.png",ALJAZEERA
-https://edge3-moblive.yuppcdn.net/drm/smil:aljazeeradrm.smil/playlist.m3u8
+#EXTINF:- tvg-id="ALJAZEERA" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/aljazeera-aljazeera.png",ALJAZEERA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
-EXTINF:- tvg-id=TenCricket" tvg-logo=https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/jyiuvy.png",Ten Cricket
-https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TenCricket" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/cvfvpl.png",Ten Cricket
+EXTINF:- tvg-id=Cricket" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Cricket 🏏",Sky sports cricket 
+http://178.33.239.54:8080/503/index.m3u8
+௮
+#EXTINF:-1 tvg-id="Cricket" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/cvfvpl.png",peo sport
 https://edge3-moblive.yuppcdn.net/drm/smil:peosportsdrm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NikkyTV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/rrrplb.png",Nikky TV
