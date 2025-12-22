@@ -55,11 +55,13 @@ https://edge3-moblive.yuppcdn.net/transsd/smil:sltgroupwatchaes.smil/playlist.m3
 #EXTINF:-1 tvg-id="NethraTV " tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/udbacm.png",Nethra TV
 https://edge3-moblive.yuppcdn.net/drm1/smil:nethradrm.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AndFlix" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/nflix-nflix.png",And Flix
-https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="AsiaTV.lk@HD",Asia TV
+https://stream.asiatvnet.com/1/live/master.m3u8
 
 #EXTINF:-1 tvg-id="MusicPlusTelevision" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/music-television.png",Music Plus Television
 https://edge3-moblive.yuppcdn.net/drm1/smil:musicplustvdrm.smil/playlist.m3u8
+#EXTINF:1 tvg-id="ShraddaTv" tvg-logo="https://i.imgur.com/sZ3fEMi.png", Shraddha
+https://edge3-moblive.yuppcdn.net/drm1/smil:shraddhatvdrm.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="KalaignarTV " tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/kalaignar-tv.png",Kalaignar TV 
 https://edge3-moblive.yuppcdn.net/drm1/smil:kalaignartvdrm.smil/playlist.m3u8
@@ -101,8 +103,6 @@ http://103.124.251.164:28015/play/a02m/index.m3u8
 #EXTINF:-1 tvg-id="HBO2East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/512px-HBO_2_%282014%29.svg.png",HBO 2 East
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 
-#EXTINF:-1 tvg-id="3TamilTV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nZG4BRWT5t0eCtM-SFVh0JMexLekw0evo-J4_S8Bw3YA=s512-c-k-c0x00ffffff-no-rj" ,3 Tamil TV
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
 #EXTINF:-1 tvg-id="AdaDerana24X7" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ada-derana-24.png",AdaDerana 24X7
 https://edge3-moblive.yuppcdn.net/drm/smil:adaderana24drm.smil/playlist.m3u8
@@ -110,10 +110,10 @@ https://edge3-moblive.yuppcdn.net/drm/smil:adaderana24drm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TimesNow" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/qigtck.png",Times Now
 https://edge3-moblive.yuppcdn.net/drm/smil:timesnowdrm.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ALJAZEERA" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/aljazeera-aljazeera.png",ALJAZEERA
+#EXTINF:-1 tvg-id="ALJAZEERA" tvg-logo=https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/aljazeera-aljazeera.png",ALJAZEERA
 https://edge3-moblive.yuppcdn.net/drm/smil:aljazeeradrm.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TenCricket" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/jyiuvy.png",Ten Cricket
+#EXTINF:-1 tvg-id=TenCricket" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/jyiuvy.png",Ten Cricket
 https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TenCricket" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/cvfvpl.png",Ten Cricket
