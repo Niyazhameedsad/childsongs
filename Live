@@ -110,8 +110,9 @@ https://edge3-moblive.yuppcdn.net/drm/smil:adaderana24drm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TimesNow" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/qigtck.png",Times Now
 https://edge3-moblive.yuppcdn.net/drm/smil:timesnowdrm.smil/playlist.m3u8
 
-EXTINF:- tvg-id="ALJAZEERA" tvg-logo=https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/aljazeera-aljazeera.png",ALJAZEERA
+#EXTINF:- tvg-id="ALJAZEERA" tvg-logo=https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/aljazeera-aljazeera.png",ALJAZEERA
 https://edge3-moblive.yuppcdn.net/drm/smil:aljazeeradrm.smil/playlist.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
 EXTINF:- tvg-id=TenCricket" tvg-logo=https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/jyiuvy.png",Ten Cricket
 https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/playlist.m3u8
