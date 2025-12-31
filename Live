@@ -73,12 +73,8 @@ https://edge3-moblive.yuppcdn.net/drm1/smil:isaiaruvitvdrm.smil/playlist.m3u8
 https://edge3-moblive.yuppcdn.net/drm1/smil:sirippolitvdrm.smil/playlist.m3u8
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 
-#EXTINF:-1 tvg-id="movie",new (1080p)
-https://cdntamilbulb.online/stream/AiOmgaoTw3uLQPokwwi07g/kjhhiuahiuhgihdf/1767194439/66692317/master.m3u8
-
-
-#EXTINF:-1 tvg-id="NickelodeonSonic.in",Nickelodeon Sonic Hindi (1080p)
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 group-title="Movie",new (1080p)
+http://cdntamilbulb.online/stream/AiOmgaoTw3uLQPokwwi07g/kjhhiuahiuhgihdf/1767194439/66692317/master.m3u8
 
 #EXTINF:-1 tvg-id="",Star Family (576p) [Not 24/7]
 http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
