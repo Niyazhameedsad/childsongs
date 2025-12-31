@@ -73,8 +73,8 @@ https://edge3-moblive.yuppcdn.net/drm1/smil:isaiaruvitvdrm.smil/playlist.m3u8
 https://edge3-moblive.yuppcdn.net/drm1/smil:sirippolitvdrm.smil/playlist.m3u8
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NickHDPlus.in",Nick HD+ (1080p)
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="movie",new (1080p)
+https://cdntamilbulb.online/stream/AiOmgaoTw3uLQPokwwi07g/kjhhiuahiuhgihdf/1767194439/66692317/master.m3u8
 
 
 #EXTINF:-1 tvg-id="NickelodeonSonic.in",Nickelodeon Sonic Hindi (1080p)
@@ -106,8 +106,14 @@ https://fl5.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 tvg-id="AdaDerana24X7" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ada-derana-24.png",AdaDerana 24X7
 https://edge3-moblive.yuppcdn.net/drm/smil:adaderana24drm.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TimesNow" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/qigtck.png",Times Now
-https://edge3-moblive.yuppcdn.net/drm/smil:timesnowdrm.smil/playlist.m3u8
+#EXTINF:-1,DD Tamil
+https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
+#EXTINF:-1,Mathimugam
+https://cdn-3.pishow.tv/live/1476/master.m3u8
+#EXTINF:-1,Raj TV
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8
+#EXTINF:-1,Vanavil
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
 
 #EXTINF:- tvg-id="ALJAZEERA" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/aljazeera-aljazeera.png",ALJAZEERA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
