@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Rupavahini" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/rupavahini.png",Rupavahini
-https://edge3-moblive.yuppcdn.net/drm/smil:rupavahinidrm.smil/playlist.m3u8
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 #EXTINF:-1 tvg-id="ChannelEye" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/fhuhab.png",Channel Eye
 https://edge3-moblive.yuppcdn.net/drm1/smil:nethradrm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ITN" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ducchq.png",ITN
