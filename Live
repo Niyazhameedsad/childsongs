@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Rupavahini" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/rupavahini.png",Rupavahini
-https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ChannelEye" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/fhuhab.png",Channel Eye
 https://edge3-moblive.yuppcdn.net/drm1/smil:nethradrm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ITN" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ducchq.png",ITN
@@ -10,7 +10,7 @@ https://edge3-moblive.yuppcdn.net/drm1/smil:vasanthamtvdrm.smil/index.m3u8
 #EXTINF:-1 tvg-id="TVDerana" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/derana.png",TV Derana
 https://edge3-moblive.yuppcdn.net/transhd2/smil:detv04.smil/index.m3u8
 #EXTINF:-1 tvg-id="Swarnavahini" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ddcjju.png",Swarnavahini
-https://edge4-moblive.yuppcdn.net/transsd/smil:swani06.smil/playlist.m3u8?dvr
+https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966fd.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="HiruTV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/hiru-tv.png",Hiru TV
 https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-id="Siyatha-TV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/twchnq.png",Siyatha TV
@@ -19,6 +19,9 @@ https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
 https://edge3-moblive.yuppcdn.net/transsd/smil:sirtv09.smil/playlist.m3u8?dvr=
 #EXTINF:-1 tvg-id="ShakthiTV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/dmikwb.png",Shakthi TV
 https://edge3-moblive.yuppcdn.net/drm/smil:shakthitvdrm.smil/playlist.m3u8
+#EXTINF:-1,NDTVLANKA Tamil
+https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/chunks.m3u8
+
 
 
 #EXTINF:-1 tvg-id="Supreme-TV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/toilov.png",Supreme
@@ -75,7 +78,6 @@ https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 
 #EXTINF:-1 group-title="Movie",Roja movie
 https://stream.rojatv.cloud/rojatv/rojatv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="Movie",Roja
 https://live.rojatv.cloud/rojatv/rojatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Movie",Thala Tv
@@ -91,16 +93,9 @@ https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
 #EXTINF:-1 tvg-id="B4UMoviesIndia.in",B4U Movies India (576p)
 http://183.89.246.119:8881/play/a08n/index.m3u8
 
-#EXTINF:-1,Anantham Tv
-https://stream.galaxyott.live/live/anandhamtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Suriyan Tv
-https://stream.galaxyott.live/live/suriyantv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Venthar
-https://cdn-3.pishow.tv/live/1271/master.m3u8
 
 
-#EXTINF:-1 tvg-id="AdaDerana24X7" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ada-derana-24.png",AdaDerana 24X7
-https://edge3-moblive.yuppcdn.net/drm/smil:adaderana24drm.smil/playlist.m3u8
+
 
 #EXTINF:-1,DD Tamil
 https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
@@ -115,7 +110,12 @@ https://live.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1,Murasu
 https://segment.yuppcdn.net/050522/murasu/050522/murasu_400/chunks.m3u8
 https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/68bad879-ab31-4686-a381-ecd6ed51c516/0.m3u8
-
+#EXTINF:-1,Anantham Tv
+https://stream.galaxyott.live/live/anandhamtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Suriyan Tv
+https://stream.galaxyott.live/live/suriyantv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Venthar
+https://cdn-3.pishow.tv/live/1271/master.m3u8
 #EXTINF:-1,Malar
 https://cdn-3.pishow.tv/live/473/master.m3u8
 #EXTINF:-1,MN TV
@@ -127,15 +127,29 @@ https://cdn-2.pishow.tv/live/1241/master.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="AdaDerana24X7" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ada-derana-24.png",AdaDerana 24X7
+https://edge3-moblive.yuppcdn.net/drm/smil:adaderana24drm.smil/playlist.m3u8
 #EXTINF:- tvg-id="ALJAZEERA" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/aljazeera-aljazeera.png",ALJAZEERA
-https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8  https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+
 
 #EXTINF:- tvg-id=Cricket" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Cricket 🏏",Sky sports cricket 
-http://178.33.239.54:8080/503/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Cricket" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/cvfvpl.png",Peo sports1
 https://edge3-moblive.yuppcdn.net/drm/smil:peosportsdrm.smil/playlist.m3u8
+#EXTINF:-1,Saudi
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/chunks.m3u8
+#EXTINF:-1,Saudi quran
+https://dlkqw1ftuvuuzkcb4pxdcg.fasttvcdn.com/295/97/975A2BD75BAD0B4AB7397E9E66216DA8.smil/0.m3u8
+#EXTINF:-1,Sarjah
+https://live.kwikmotion.com/smc1live/smc1tv.smil/smc1publish/smc1tvhd_240p/chunks.m3u8
+#EXTINF:-1, Yaz tv
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/yas_1/yas_1_hls_nd/index_yas1_video_enc_360p25.m3u8
+
+
+#EXTINF:-1,Arabia discovery
+https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="NikkyTV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/rrrplb.png",Nikky TV
 https://edge3-moblive.yuppcdn.net/drm/smil:planetfundrm.smil/playlist.m3u8
