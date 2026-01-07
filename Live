@@ -82,7 +82,8 @@ https://stream.rojatv.cloud/rojatv/rojatv/tracks-v1a1/mono.m3u8
 https://live.rojatv.cloud/rojatv/rojatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Movie",Thala Tv
 https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/9376db87-7d66-4257-bf6a-2d1062bbedef/1.m3u8
-
+#EXTINF:-1 group-title="Movie",new movie
+https://cdntamilbulb.online/stream/PR5JMV5p3oinLnUHwz4TEQ/kjhhiuahiuhgihdf/1767840394/66644559/master.m3u8
 
 
 #EXTINF:-1 tvg-id="",Star Family (576p) [Not 24/7]
