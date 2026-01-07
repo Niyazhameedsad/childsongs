@@ -125,6 +125,12 @@ https://mntv.livebox.co.in/mntvhls/live.m3u8
 https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
 #EXTINF:-1,Polimer
 https://cdn-2.pishow.tv/live/1241/master.m3u8
+#EXTINF:-1,Vasanth Tv
+https://vasanth.pc.cdn.bitgravity.com/vasanth/secure/live/feed01/playlist_b250.m3u8
+#EXTINF:-1,shalinitv
+https://stream.singamcloud.in/shalinitv/shalinitv/index.m3u8
+
+
 
 
 
@@ -147,12 +153,15 @@ https://dlkqw1ftuvuuzkcb4pxdcg.fasttvcdn.com/295/97/975A2BD75BAD0B4AB7397E9E6621
 https://live.kwikmotion.com/smc1live/smc1tv.smil/smc1publish/smc1tvhd_240p/chunks.m3u8
 #EXTINF:-1, Yaz tv
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/yas_1/yas_1_hls_nd/index_yas1_video_enc_360p25.m3u8
-
-
 #EXTINF:-1,Arabia discovery
 https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
+#EXTINF:-1,Geography Arabic
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
 
-#EXTINF:-1 tvg-id="NikkyTV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/rrrplb.png",Nikky TV
-https://edge3-moblive.yuppcdn.net/drm/smil:planetfundrm.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="kid" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/rrrplb.png", space toon arabic
+https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8
+
+
 #EXTINF:-1,Kids Tamil
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/hdntl=exp=1767524464~acl=%2f*~data=hdntl~hmac=fbb73284d68915291c2ca7c992e94b31ca8a0683df8ba74141413ea96ba04644/chunklist_b864000.m3u8
