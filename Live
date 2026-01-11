@@ -67,13 +67,11 @@ https://edge3-moblive.yuppcdn.net/drm1/smil:musicplustvdrm.smil/playlist.m3u8
 https://edge3-moblive.yuppcdn.net/drm1/smil:shraddhatvdrm.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="KalaignarTV " tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/kalaignar-tv.png",Kalaignar TV 
-https://edge3-moblive.yuppcdn.net/drm1/smil:kalaignartvdrm.smil/playlist.m3u8
+https://segment.yuppcdn.net/240122/kalaignartv/240122/kalaignartv_400/chunks.m3u8
+#EXTINF:-1 tvg-id="murasu " tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/isaiaruvi-tv.png",Murasu Tv
 
-#EXTINF:-1 tvg-id="IsaiaruviTV " tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/isaiaruvi-tv.png",Isaiaruvi TV
-https://edge3-moblive.yuppcdn.net/drm1/smil:isaiaruvitvdrm.smil/playlist.m3u8
-
+https://segment.yuppcdn.net/050522/murasu/050522/murasu_400/chunks.m3u8
 #EXTINF:-1 tvg-id="SirippoliTV  " tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/sirippoli-tv.png",Sirippoli TV
-https://edge3-moblive.yuppcdn.net/drm1/smil:sirippolitvdrm.smil/playlist.m3u8
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 
 #EXTINF:-1 group-title="Movie",Roja movie
@@ -94,8 +92,8 @@ https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
 #EXTINF:-1 tvg-id="B4UMoviesIndia.in",B4U Movies India (576p)
 http://183.89.246.119:8881/play/a08n/index.m3u8
 
-
-
+#EXTINF:-1,CHITHIRAM
+https://cdn-6.pishow.tv/live/1243/master.m3u8
 
 
 #EXTINF:-1,DD Tamil
@@ -152,7 +150,7 @@ https://dlkqw1ftuvuuzkcb4pxdcg.fasttvcdn.com/295/97/975A2BD75BAD0B4AB7397E9E6621
 #EXTINF:-1,Sarjah
 https://live.kwikmotion.com/smc1live/smc1tv.smil/smc1publish/smc1tvhd_240p/chunks.m3u8
 #EXTINF:-1, Yaz tv
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/yas_1/yas_1_hls_nd/index_yas1_video_enc_360p25.m3u8
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/yas_1/yas_1_hls_nd/index.m3u8
 #EXTINF:-1,Arabia discovery
 https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #EXTINF:-1,Geography Arabic
@@ -165,3 +163,21 @@ https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8
 
 #EXTINF:-1,Kids Tamil
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/hdntl=exp=1767524464~acl=%2f*~data=hdntl~hmac=fbb73284d68915291c2ca7c992e94b31ca8a0683df8ba74141413ea96ba04644/chunklist_b864000.m3u8
+#EXTM3U
+#EXTINF:0, Mk six
+https://cdn-6.pishow.tv/live/1243/master.m3u8
+
+#EXTINF:0, MNTV
+https://mntv.livebox.co.in/mntvhls/live.m3u8
+
+#EXTINF:0, NTV
+https://galaxyott.live/hls/ntv.m3u8
+
+#EXTINF:0, Raj TV
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index_1.m3u8
+
+#EXTINF:0, Sana Plus
+https://galaxyott.live/hls/sanaplus.m3u8
+
+#EXTINF:0, Sana TV
+https://galaxyott.live/hls/sanatv.m3u8
