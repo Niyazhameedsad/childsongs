@@ -1,75 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Rupavahini" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/rupavahini.png",Rupavahini
-
-#EXTINF:-1 tvg-id="ChannelEye" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/fhuhab.png",Channel Eye
-https://edge3-moblive.yuppcdn.net/drm1/smil:nethradrm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ITN" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ducchq.png",ITN
 https://edge3-moblive.yuppcdn.net/drm/smil:itndrm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VasanthamTV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ngfsik.png",Vasantham TV
 https://edge3-moblive.yuppcdn.net/drm1/smil:vasanthamtvdrm.smil/index.m3u8
-#EXTINF:-1 tvg-id="TVDerana" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/derana.png",TV Derana
-https://edge3-moblive.yuppcdn.net/transhd2/smil:detv04.smil/index.m3u8
+
 #EXTINF:-1 tvg-id="Swarnavahini" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ddcjju.png",Swarnavahini
 https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966fd.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="HiruTV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/hiru-tv.png",Hiru TV
 https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-id="Siyatha-TV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/twchnq.png",Siyatha TV
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
-#EXTINF:-1 tvg-id="Sirasa-TV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ucihva.png",Sirasa TV
-https://edge3-moblive.yuppcdn.net/transsd/smil:sirtv09.smil/playlist.m3u8?dvr=
-#EXTINF:-1 tvg-id="ShakthiTV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/dmikwb.png",Shakthi TV
-https://edge3-moblive.yuppcdn.net/drm/smil:shakthitvdrm.smil/playlist.m3u8
 #EXTINF:-1,NDTVLANKA Tamil
 https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/chunks.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Supreme-TV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/toilov.png",Supreme
-https://edge3-moblive.yuppcdn.net/transsd/smil:tnl12.smil/playlist.m3u8?dvr=
-
-
-#EXTINF:-1 tvg-id="CHARANATV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/djwqoh.png",CHARANA TV
-https://edge3-moblive.yuppcdn.net/drm/smil:charanadrm.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ThreeVision" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/wiyovh.png",Three Vision
-https://edge3-moblive.yuppcdn.net/drm/smil:knowledgetvdrm.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV1" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/vjtiwc.png",TV1
-https://edge3-moblive.yuppcdn.net/drm1/smil:tv1drm.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EventTV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/event-tv.png",Event TV
-https://edge3-moblive.yuppcdn.net/drm/smil:eventtvdrm.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="StarTamil" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/vztqoe.png",Star Tamil
-https://edge3-moblive.yuppcdn.net/drm1/smil:startamildrm.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JayaTV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ppkeyw.png",Jaya TV
-https://edge3-moblive.yuppcdn.net/drm/smil:jayamagatvdrm.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ParliamentChannel" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/parliament-channel.png",Parliament Channel
-https://edge3-moblive.yuppcdn.net/drm/smil:parliamentchanneldrm.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EventTVPlus " tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/event-tv-plus.png",Event TV Plus
-https://edge3-moblive.yuppcdn.net/drm/smil:eventtvplusdrm.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SLTMobitelGroupWatch" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/twkwpt.png",SLTMobitel Group Watch
-https://edge3-moblive.yuppcdn.net/transsd/smil:sltgroupwatchaes.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NethraTV " tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/udbacm.png",Nethra TV
-https://edge3-moblive.yuppcdn.net/drm1/smil:nethradrm.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AsiaTV.lk@HD",Asia TV
 https://stream.asiatvnet.com/1/live/master.m3u8
 
-#EXTINF:-1 tvg-id="MusicPlusTelevision" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/music-television.png",Music Plus Television
-https://edge3-moblive.yuppcdn.net/drm1/smil:musicplustvdrm.smil/playlist.m3u8
-#EXTINF:1 tvg-id="ShraddaTv" tvg-logo="https://i.imgur.com/sZ3fEMi.png", Shraddha
-https://edge3-moblive.yuppcdn.net/drm1/smil:shraddhatvdrm.smil/index.m3u8
+
 
 #EXTINF:-1 tvg-id="KalaignarTV " tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/kalaignar-tv.png",Kalaignar TV 
 https://segment.yuppcdn.net/240122/kalaignartv/240122/kalaignartv_400/chunks.m3u8
 #EXTINF:-1 tvg-id="murasu " tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/isaiaruvi-tv.png",Murasu Tv
-
 https://segment.yuppcdn.net/050522/murasu/050522/murasu_400/chunks.m3u8
 #EXTINF:-1 tvg-id="SirippoliTV  " tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/sirippoli-tv.png",Sirippoli TV
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
@@ -87,14 +37,8 @@ https://s3-hls1-cdn52.strmupcdn.cc/hls/OpOcoUfbCfwjuaddD6ktNgCSsSATcg/master.m3u
 http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
 #EXTINF:-1 tvg-id="Starnet.in",Starnet (480p)
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
-
-#EXTINF:-1 tvg-id="B4UMoviesIndia.in",B4U Movies India (576p)
-http://183.89.246.119:8881/play/a08n/index.m3u8
-
 #EXTINF:-1,CHITHIRAM
 https://cdn-6.pishow.tv/live/1243/master.m3u8
-
-
 #EXTINF:-1,DD Tamil
 https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
 #EXTINF:-1,Mathimugam
@@ -126,8 +70,20 @@ https://cdn-2.pishow.tv/live/1241/master.m3u8
 https://vasanth.pc.cdn.bitgravity.com/vasanth/secure/live/feed01/playlist_b250.m3u8
 #EXTINF:-1,shalinitv
 https://stream.singamcloud.in/shalinitv/shalinitv/index.m3u8
-
-
+#EXTINF:-1, Veera TV HD
+https://ipcloud.live/veeratv/veeratvhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Durai TV
+https://ipcloud.live/duraitv/live/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Irattaipaathai TV
+https://account31.livebox.co.in/IRATTAIPAATHAITVhls/live.m3u8
+#EXTINF:-1, Raja TV
+http://brightmeltech.in/rajatv/rajatv.m3u8
+#EXTINF:-1, King TV
+http://kingtv.sscloud7.in/kingtv/kingtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Malligai TV
+https://server.sscloud7.in/live/malligai/tracks-v1a1/mono.m3u8
+#EXTINF:-1, PCV TV
+http://pcvtv.sscloud7.com/live/livepcv/tracks-v1a1/mono.m3u8
 
 
 
@@ -140,8 +96,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8  https://live-hls-app
 #EXTINF:- tvg-id=Cricket" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Cricket 🏏",cricket buzz1
 https://aps33.playlist.live-video.net/v1/playlist/CroFEgKAKTPNtwbxKD2cFI-6VgaanHMsaHZ4Gq4mhQXaqysbVNhlQGSYlLFhiCo2_DgU75Et_f8C1PfxCNncad9HzvfwZuuMex4oIcP29A-fWWvy6YByxN8aLe_rduLddSCKHQvMmGvJTVtv-tDRuBUfInS5zMR_zgCZCviiQSDPOajFhfAIRUzQy9Nvzzbqq3wPSu49sMmRv9AAHw9TC7SR0uZf_PoNCJcWC-SV7HrdcuVGPbbEKVKs5Xu0LVJKAZ2NVCP7LYuDsrn7ap9fSMoe7B6jfAMQU0UuGIA4_DyhCRpCAv4OunEX7IOWB4rDR2D8r0nmLBPWgn4YCwcRjgR6pd6Af7U9axA935jzr-fcN2SaFAxn26HRWxYmGY6HzWYItllf4bci0zpOjEdqtLamLWQ1SOoeixaLcdULbiw2x2eqI2xiCBLKcuK0WVGdyGSwLrUO7Ly-PCdX3cZewzmOV--7jmo-zz-Ue_Me5xh9tJrVykORKiO7ToihvtcKPHk3FJoQivUNSN2oxjFDbHXhIM6FkMBXnmdVo3dPIL1wn_0850KeNmOGomB5GdTeJfmniVrwzzkHTCREKqCJN3XuO7gcsAaM9A3qQGbJfHgKVqpPqWdJW5-emwVOazXfvtFy5IgJUl3v4gqEnWqCOLcBpHCEb1RQkWs0Xve8qNviNAn1Mf5yiuUiwmxKJud9R6VdIPBa3h2vqtOFR_ADWBczrF8gjP_r3iosZMyO5KVusqr8jgLfTRZaRjmU1hL5hVBdpJqCBoqBH7sceFgyATBLC4w6KVy4VvEzl7DmNFMsIz6WUGp_LgmWYLs6fGPUKUzqHKfLrY1v-Plb15BJxmBc_sRkO9ZIXZUGACfA18jhJsQS4pthb-6BYubumCXVeJwrrCEIJ63umgUOCaeCUSJYzN5B7NRg72v8rH0aDBmk72bLDRjpjpbc_CABKgl1cy13ZXN0LTIwkQ4.m3u8
 
-#EXTINF:-1 tvg-id="Cricket" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/cvfvpl.png",Peo sports1
-https://edge3-moblive.yuppcdn.net/drm/smil:peosportsdrm.smil/playlist.m3u8
+
+
 #EXTINF:-1,Saudi
 https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/chunks.m3u8
 #EXTINF:-1,Saudi quran
@@ -159,10 +115,6 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/nat
 #EXTINF:-1 tvg-id="kid" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/rrrplb.png", space toon arabic
 https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8
 
-
-#EXTINF:-1,Kids Tamil
-https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/hdntl=exp=1767524464~acl=%2f*~data=hdntl~hmac=fbb73284d68915291c2ca7c992e94b31ca8a0683df8ba74141413ea96ba04644/chunklist_b864000.m3u8
-#EXTM3U
 #EXTINF:0, Mk six
 https://cdn-6.pishow.tv/live/1243/master.m3u8
 
@@ -171,9 +123,6 @@ https://mntv.livebox.co.in/mntvhls/live.m3u8
 
 #EXTINF:0, NTV
 https://galaxyott.live/hls/ntv.m3u8
-
-#EXTINF:0, Raj TV
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index_1.m3u8
 
 #EXTINF:0, Sana Plus
 https://galaxyott.live/hls/sanaplus.m3u8
