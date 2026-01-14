@@ -14,6 +14,8 @@ https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
 https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="AsiaTV.lk@HD",Asia TV
 https://stream.asiatvnet.com/1/live/master.m3u8
+#EXTINF:-1, News First Tamil (YouTube)
+https://www.youtube.com/watch?v=uXzhL_lrppM
 
 
 
