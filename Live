@@ -77,6 +77,29 @@ http://kingtv.sscloud7.in/kingtv/kingtv/tracks-v1a1/mono.m3u8
 https://server.sscloud7.in/live/malligai/tracks-v1a1/mono.m3u8
 #EXTINF:-1, PCV TV
 http://pcvtv.sscloud7.com/live/livepcv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RiotvHd" tvg-name="Rio TV HD" tvg-logo="" group-title="Entertainment",Rio TV HD
+https://ipcloud.live/riotv/riotvhd/index.m3u8
+
+#EXTINF:-1 tvg-id="EagleTv" tvg-name="Eagle Media TV" tvg-logo="" group-title="Entertainment",Eagle Media TV
+https://ipcloud.live/eaglemedia/eagletv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ShaliniTv" tvg-name="Shalini TV" tvg-logo="" group-title="Entertainment",Shalini TV
+http://ipcloud.live:8080/shalinitv/shalinitv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NilaTv" tvg-name="Nila TV" tvg-logo="" group-title="Entertainment",Nila TV
+https://ipcloud.live/nilatvsvg/nilatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SaamiTv" tvg-name="Saami TV" tvg-logo="" group-title="Entertainment",Saami TV
+https://ipcloud.live/msntv/saamitv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MsnTv" tvg-name="MSN TV" tvg-logo="" group-title="Entertainment",MSN TV
+https://ipcloud.live/msntv/msntv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="LeoTvHd" tvg-name="Leo TV HD" tvg-logo="" group-title="Entertainment",Leo TV HD
+https://ipcloud.live/leotv/leotvhd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CanalAlgerie" tvg-name="Canal Algérie" tvg-logo="" group-title="International",Canal Algérie
+https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-HLS8/canalalgerie.m3u8
 
 
 
