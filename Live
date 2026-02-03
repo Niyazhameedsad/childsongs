@@ -22,6 +22,7 @@ https://segment.yuppcdn.net/050522/murasu/050522/murasu_400/chunks.m3u8
 #EXTINF:-1 tvg-id="SirippoliTV  " tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/sirippoli-tv.png",Sirippoli TV
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 
+
 #EXTINF:-1 group-title="Movie",Roja movie
 https://stream.rojatv.cloud/rojatv/rojatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Movie",Roja
@@ -97,40 +98,6 @@ https://ipcloud.live/msntv/msntv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="LeoTvHd" tvg-name="Leo TV HD" tvg-logo="" group-title="Entertainment",Leo TV HD
 https://ipcloud.live/leotv/leotvhd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="CanalAlgerie" tvg-name="Canal Algérie" tvg-logo="" group-title="International",Canal Algérie
-https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-HLS8/canalalgerie.m3u8
-
-
-
-#EXTINF:-1 tvg-id="AdaDerana24X7" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ada-derana-24.png",AdaDerana 24X7
-https://edge3-moblive.yuppcdn.net/drm/smil:adaderana24drm.smil/playlist.m3u8
-#EXTINF:- tvg-id="ALJAZEERA" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/aljazeera-aljazeera.png",ALJAZEERA
-https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8  https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-
-
-#EXTINF:- tvg-id=Cricket" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Cricket 🏏",cricket buzz1
-https://aps33.playlist.live-video.net/v1/playlist/CroFEgKAKTPNtwbxKD2cFI-6VgaanHMsaHZ4Gq4mhQXaqysbVNhlQGSYlLFhiCo2_DgU75Et_f8C1PfxCNncad9HzvfwZuuMex4oIcP29A-fWWvy6YByxN8aLe_rduLddSCKHQvMmGvJTVtv-tDRuBUfInS5zMR_zgCZCviiQSDPOajFhfAIRUzQy9Nvzzbqq3wPSu49sMmRv9AAHw9TC7SR0uZf_PoNCJcWC-SV7HrdcuVGPbbEKVKs5Xu0LVJKAZ2NVCP7LYuDsrn7ap9fSMoe7B6jfAMQU0UuGIA4_DyhCRpCAv4OunEX7IOWB4rDR2D8r0nmLBPWgn4YCwcRjgR6pd6Af7U9axA935jzr-fcN2SaFAxn26HRWxYmGY6HzWYItllf4bci0zpOjEdqtLamLWQ1SOoeixaLcdULbiw2x2eqI2xiCBLKcuK0WVGdyGSwLrUO7Ly-PCdX3cZewzmOV--7jmo-zz-Ue_Me5xh9tJrVykORKiO7ToihvtcKPHk3FJoQivUNSN2oxjFDbHXhIM6FkMBXnmdVo3dPIL1wn_0850KeNmOGomB5GdTeJfmniVrwzzkHTCREKqCJN3XuO7gcsAaM9A3qQGbJfHgKVqpPqWdJW5-emwVOazXfvtFy5IgJUl3v4gqEnWqCOLcBpHCEb1RQkWs0Xve8qNviNAn1Mf5yiuUiwmxKJud9R6VdIPBa3h2vqtOFR_ADWBczrF8gjP_r3iosZMyO5KVusqr8jgLfTRZaRjmU1hL5hVBdpJqCBoqBH7sceFgyATBLC4w6KVy4VvEzl7DmNFMsIz6WUGp_LgmWYLs6fGPUKUzqHKfLrY1v-Plb15BJxmBc_sRkO9ZIXZUGACfA18jhJsQS4pthb-6BYubumCXVeJwrrCEIJ63umgUOCaeCUSJYzN5B7NRg72v8rH0aDBmk72bLDRjpjpbc_CABKgl1cy13ZXN0LTIwkQ4.m3u8
-
-
-
-#EXTINF:-1,Saudi
-https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/chunks.m3u8
-#EXTINF:-1,Saudi quran
-https://dlkqw1ftuvuuzkcb4pxdcg.fasttvcdn.com/295/97/975A2BD75BAD0B4AB7397E9E66216DA8.smil/0.m3u8
-#EXTINF:-1,Sarjah
-https://live.kwikmotion.com/smc1live/smc1tv.smil/smc1publish/smc1tvhd_240p/chunks.m3u8
-#EXTINF:-1, Yaz tv
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/yas_1/yas_1_hls_nd/index.m3u8
-#EXTINF:-1,Arabia discovery
-https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
-#EXTINF:-1,Geography Arabic
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
-
-
-#EXTINF:-1 tvg-id="kid" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/rrrplb.png", space toon arabic
-https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8
-
 #EXTINF:0, Mk six
 https://cdn-6.pishow.tv/live/1243/master.m3u8
 
@@ -145,3 +112,41 @@ https://galaxyott.live/hls/sanaplus.m3u8
 
 #EXTINF:0, Sana TV
 https://galaxyott.live/hls/sanatv.m3u8
+
+#EXTINF:-1,Saudi
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/chunks.m3u8
+#EXTINF:-1,Saudi quran
+https://dlkqw1ftuvuuzkcb4pxdcg.fasttvcdn.com/295/97/975A2BD75BAD0B4AB7397E9E66216DA8.smil/0.m3u8
+#EXTINF:-1,Sarjah
+https://live.kwikmotion.com/smc1live/smc1tv.smil/smc1publish/smc1tvhd_240p/chunks.m3u8
+#EXTINF:-1, Yaz tv
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/yas_1/yas_1_hls_nd/index.m3u8
+#EXTINF:-1,Arabia discovery
+https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
+#EXTINF:-1,Geography Arabic
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
+#EXTINF:-1 tvg-id="CanalAlgerie" tvg-name="Canal Algérie" tvg-logo="" group-title="International",Canal Algérie
+https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-HLS8/canalalgerie.m3u8
+
+#EXTINF:-1 tvg-id="kid" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/rrrplb.png", space toon arabic
+https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="AdaDerana24X7" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ada-derana-24.png",AdaDerana 24X7
+https://edge3-moblive.yuppcdn.net/drm/smil:adaderana24drm.smil/playlist.m3u8
+#EXTINF:- tvg-id="ALJAZEERA" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/aljazeera-aljazeera.png",ALJAZEERA
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8  https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+
+
+#EXTINF:- tvg-id=Cricket" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Cricket 🏏",cricket buzz1
+https://aps33.playlist.live-video.net/v1/playlist/CroFEgKAKTPNtwbxKD2cFI-6VgaanHMsaHZ4Gq4mhQXaqysbVNhlQGSYlLFhiCo2_DgU75Et_f8C1PfxCNncad9HzvfwZuuMex4oIcP29A-fWWvy6YByxN8aLe_rduLddSCKHQvMmGvJTVtv-tDRuBUfInS5zMR_zgCZCviiQSDPOajFhfAIRUzQy9Nvzzbqq3wPSu49sMmRv9AAHw9TC7SR0uZf_PoNCJcWC-SV7HrdcuVGPbbEKVKs5Xu0LVJKAZ2NVCP7LYuDsrn7ap9fSMoe7B6jfAMQU0UuGIA4_DyhCRpCAv4OunEX7IOWB4rDR2D8r0nmLBPWgn4YCwcRjgR6pd6Af7U9axA935jzr-fcN2SaFAxn26HRWxYmGY6HzWYItllf4bci0zpOjEdqtLamLWQ1SOoeixaLcdULbiw2x2eqI2xiCBLKcuK0WVGdyGSwLrUO7Ly-PCdX3cZewzmOV--7jmo-zz-Ue_Me5xh9tJrVykORKiO7ToihvtcKPHk3FJoQivUNSN2oxjFDbHXhIM6FkMBXnmdVo3dPIL1wn_0850KeNmOGomB5GdTeJfmniVrwzzkHTCREKqCJN3XuO7gcsAaM9A3qQGbJfHgKVqpPqWdJW5-emwVOazXfvtFy5IgJUl3v4gqEnWqCOLcBpHCEb1RQkWs0Xve8qNviNAn1Mf5yiuUiwmxKJud9R6VdIPBa3h2vqtOFR_ADWBczrF8gjP_r3iosZMyO5KVusqr8jgLfTRZaRjmU1hL5hVBdpJqCBoqBH7sceFgyATBLC4w6KVy4VvEzl7DmNFMsIz6WUGp_LgmWYLs6fGPUKUzqHKfLrY1v-Plb15BJxmBc_sRkO9ZIXZUGACfA18jhJsQS4pthb-6BYubumCXVeJwrrCEIJ63umgUOCaeCUSJYzN5B7NRg72v8rH0aDBmk72bLDRjpjpbc_CABKgl1cy13ZXN0LTIwkQ4.m3u8
+
+
+
+
+
+
+
+
