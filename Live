@@ -29,8 +29,8 @@ https://stream.rojatv.cloud/rojatv/rojatv/tracks-v1a1/mono.m3u8
 https://live.rojatv.cloud/rojatv/rojatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Movie",Thala Tv
 https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/9376db87-7d66-4257-bf6a-2d1062bbedef/1.m3u8
-#EXTINF:-1 group-title="Movie",vaa vathiyar FILM
-https://s1.strmupcdn.cc/hls/aoknvKWwpxVnqzbf9WRsodBgnaPg5nTs/master.m3u8
+#EXTINF:-1 group-title="Movie",vaa raja saab
+https://s1.strmupcdn.cc/hls/l8NElX4BSx9Mtj08m3OkJVIYGuiomVhE/index_1146x480.m3u8
 #EXTINF:-1,CHITHIRAM
 https://cdn-6.pishow.tv/live/1243/master.m3u8
 #EXTINF:-1,DD Tamil
