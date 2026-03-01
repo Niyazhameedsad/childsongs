@@ -162,9 +162,11 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8  https://live-hls-app
 
 #EXTINF:- tvg-id=Cricket" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Cricket 🏏",cricket
 https://mut001.timeout1.top:8088/live/webcricn02/playlist.m3u8?vidictid=205138538456&id=115656&pk=81c20144efa2538e11e251d4113e7f480020438186969d3b1b9ac1ec5426c7dbc94302a12f6850934cdb337c7fc3c01ad39eaa327db064e07b6704fd77ce4ee3
-
-
-
+#EXTINF:- tvg-id=Cricket" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Cricket 🏏",skycricket
+https://muc002.timeout1.top:8088/live/webcricsky/playlist.m3u8?vidictid=205139725998&id=121345&pk=81c20144efa2538e11e251d4113e7f480020438186969d3b1b9ac1ec5426c7dbc94302a12f6850934cdb337c7fc3c01ad39eaa327db064e07b6704fd77ce4ee3
+https://plu001.timeout1.top:8088/live/webcricn04/playlist.m3u8?vidictid=205135701084&id=114607&pk=81c20144efa2538e11e251d4113e7f480020438186969d3b1b9ac1ec5426c7dbc94302a12f6850934cdb337c7fc3c01ad39eaa327db064e07b6704fd77ce4ee3
+#EXTINF:- tvg-id=Cricket" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Cricket 🏏",starsports1
+https://plu001.timeout1.top:8088/live/starsports01/playlist.m3u8?vidictid=205138148838&id=123144&pk=81c20144efa2538e11e251d4113e7f480020438186969d3b1b9ac1ec5426c7db710afb8700d7eb5b45aeffa3b982fc69c81479ca01ded5bf5e97394e41fa1e93
 
 
 
