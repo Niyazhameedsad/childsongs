@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ITN" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ducchq.png",ITN
-https://edge3-moblive.yuppcdn.net/drm/smil:itndrm.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="VasanthamTV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ngfsik.png",Vasantham TV
-https://edge3-moblive.yuppcdn.net/drm1/smil:vasanthamtvdrm.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="Swarnavahini" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ddcjju.png",Swarnavahini
-https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966fd.sdp/chunks.m3u8
+
 #EXTINF:-1 tvg-id="HiruTV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/hiru-tv.png",Hiru TV
 https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-id="Siyatha-TV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/twchnq.png",Siyatha TV
