@@ -26,8 +26,8 @@ https://stream.rojatv.cloud/rojatv/rojatv/tracks-v1a1/mono.m3u8
 https://live.rojatv.cloud/rojatv/rojatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Movie",Thala Tv
 https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/9376db87-7d66-4257-bf6a-2d1062bbedef/1.m3u8
-#EXTINF:-1, thaikilavi
-https://fs26.vidnest.live/v/03/02440/a2pf3sxw1s7h_x/x.mp4?t=_ZXEoyH92w9VPzYRUEBxkrIIKFe6DOGaRKpTkOpknMM&s=1772650424&e=43200&f=12200819&sp=1000&i=0.0&kmnr=125512258038
+#EXTINF:-1, group-title="Movie",made in korea
+https://cdn1.einthusan.io/etv/content/D39nz.mp4.m3u8?e=1773714177&md5=ITX_QY9AVdSu7a1Q9MYbFQ
 #EXTINF:-1,CHITHIRAM
 https://cdn-6.pishow.tv/live/1243/master.m3u8
 #EXTINF:-1,DD Tamil
