@@ -7,10 +7,12 @@ https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
 https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="AsiaTV.lk@HD",Asia TV
 https://stream.asiatvnet.com/1/live/master.m3u8
-
-
+#EXTINF:-1 tvg-id="murasu " tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/isaiaruvi-tv.png",kalaigner
+https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 #EXTINF:-1 tvg-id="murasu " tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/isaiaruvi-tv.png",Murasu Tv
-https://segment.yuppcdn.net/050522/murasu/050522/murasu_400/chunks.m3u8
+https://segment.yuppcdn.net/050522/murasu/050522/murasu_600/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s158791_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Thanthi One (576p)
+https://mumt02.tangotv.in/THANTHIONE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SirippoliTV  " tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/sirippoli-tv.png",Sirippoli TV
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 #EXTINF:-1,Venthar
@@ -45,6 +47,7 @@ https://cdn-2.pishow.tv/live/1241/master.m3u8
 #EXTINF:-1,Vasanth Tv
 https://vasanth.pc.cdn.bitgravity.com/vasanth/secure/live/feed01/playlist_b250.m3u8
 #EXTINF:-1,shalinitv
+http://103.78.164.62:8090/SHALINITVHD/tracks-v1a1/mono.m3u8
 https://stream.singamcloud.in/shalinitv/shalinitv/index.m3u8
 #EXTINF:-1, Veera TV HD
 https://ipcloud.live/veeratv/veeratvhd/tracks-v1a1/mono.m3u8
@@ -110,6 +113,10 @@ https://view.apserver.in/tmp_hls2/thiraitv/index.m3u8
 
 #EXTINF:-1,Saudi HOLY QURAN
 https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/er5hOK4.png" group-title="Religious",Bahrain Quran (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HPVsIa4.png" group-title="Religious",Iqraa Quran (1080p)
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rtkWYHV/20240827-092043.png" group-title="Relagion Channel", AL Sunnah TV
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1,Saudi quran
@@ -126,8 +133,13 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/nat
 https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-HLS8/canalalgerie.m3u8
 #EXTINF:-1 tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" group-title="Comedy;Kids",Mr Bean Live Action (1080p)
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B45qcQX.png" group-title="Cooking",Jordan Kitchen (1080p)
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="KIDS",Zoo Moo
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s" group-title="KIDS",Jungle Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2000002D1_20240611T062157SQUARE.png" group-title="Bambini" , CAR CITY ADVENTURES
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_content_language=it&ads.rakuten_market=it&ads.xumo_channelId=88883094
 #EXTINF:-1 group-title="Bambini" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900001A7_20240911T163058SQUARE.png", Mr Bean Animated
@@ -144,13 +156,17 @@ https://dxvpcwoxxgnqg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="SupertoonsTV.it" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD51000010V_20250729T045549SQUARE.png" group-title="Bambini" , SuperToons TV
 https://d1b18rn1fy7w7s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vbsddt58t1ej1/feed/samsung/streams/SUPERTOONS_IT/master.m3u8?token=737aa2c3f17862a448f403cd2ac2b5ef1a0c413e1cf080a13a19cea99119221f
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Family",The Pet Collective
+https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200007SZ_20250513T010706SQUARE.png" group-title="Bambini",Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J9iWjWL.png" group-title="Kids",Teletubbies (720p)
 https://dy9gbyiaxw0rb.cloudfront.net/master.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="Weather",Weatherspy
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J9iWjWL.png" group-cricket="Kids",ssky
+https://muc001.myturn1.top:8088/live/webcricsky/playlist.m3u8?vidictid=205642713710&id=121345&pk=f2950ab0babbcd7ec2a7a0e27ee62f319b37482699967ee775dddf0e57b0dfb1719fbd43167f98d654deccfd062cea9804bd9d81cb303b83d8cddaa89251baa0
 
 
 #EXTINF:-1, group-title="Cricket, psl
