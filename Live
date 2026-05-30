@@ -26,8 +26,8 @@ https://rtmp.bmlive.net/bms/emperortv/index.m3u8
 https://stream.rojatv.cloud/rojatv/rojatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Movie",Roja
 https://live.rojatv.cloud/rojatv/rojatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Movie", sabdham
-https://h5gffhfu0gno.tnmr.org/hls2/04/03339/hb8nue0unmm3_h/index-v1-a1.m3u8?t=Q7eMOyu7S42QZ6KiDf8Y5xKrts1INWsoH7ctBmHOiq0&s=1774468489&e=28800&f=16696107&srv=bfct3wig891s&i=0.3&sp=0&p1=h5gffhfu0gno&p2=h5gffhfu0gno
+#EXTINF:-1 group-title="Movie", KARA
+https://bfct3wig891s.tnmr.org/hls2/02/03820/,fr2e4mqyr21k_h,lang/eng/fr2e4mqyr21k_eng,.urlset/master.m3u8?t=Zuhi2sR0-XDjmUGOXxcX-ndZyUAYQ5IpOGS_5vuT_lg&s=1780154743&e=28800&f=19103776&i=0.3&sp=0&fr=fr2e4mqyr21k
 #EXTINF:-1,CHITHIRAM
 https://cdn-6.pishow.tv/live/1243/master.m3u8
 #EXTINF:-1,DD Tamil
