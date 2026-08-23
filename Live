@@ -172,8 +172,8 @@ https://muc001.myturn1.top:8088/live/webcricsky/playlist.m3u8?vidictid=205642713
 #EXTINF:-1, group-title="Cricket, psl
 https://muc001.myturn1.top:8088/live/webcrice08/playlist.m3u8?id=116153&pk=d76ebdb5d3904c1684963ada9734d5d39b2411380edf08315732e54e2ffd8e02a03f862b5cdf4dfab1fb4b10db1cce980a79b143b4c7eb0570ff5df54f1a4d98
 
-#EXTM3U
-#EXTINF:-1 tvg-name="கரடி மாமா" tvg-logo="https://i.ytimg.com/vi/_WBnUl32GTs/hqdefault.jpg" group-title="Tamil Child Songs",கரடி மாமா
+
+#EXTINF:-1, tvg-name="கரடி மாமா" tvg-logo="https://i.ytimg.com/vi/_WBnUl32GTs/hqdefault.jpg" group-title="Tamil Child Songs",கரடி மாமா
 plugin://plugin.video.youtube/play/?video_id=_WBnUl32GTs
 #EXTINF:-1 tvg-name="குரங்கு மாமா" tvg-logo="https://i.ytimg.com/vi/DPp9pyUzo7c/hqdefault.jpg" group-title="Tamil Child Songs",குரங்கு மாமா
 plugin://plugin.video.youtube/play/?video_id=DPp9pyUzo7c
