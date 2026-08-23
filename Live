@@ -172,26 +172,28 @@ https://muc001.myturn1.top:8088/live/webcricsky/playlist.m3u8?vidictid=205642713
 #EXTINF:-1, group-title="Cricket, psl
 https://muc001.myturn1.top:8088/live/webcrice08/playlist.m3u8?id=116153&pk=d76ebdb5d3904c1684963ada9734d5d39b2411380edf08315732e54e2ffd8e02a03f862b5cdf4dfab1fb4b10db1cce980a79b143b4c7eb0570ff5df54f1a4d98
 
-#EXTINF:-1, tvg-name="கரடி மாமா" tvg-logo="https://i.ytimg.com/vi/_WBnUl32GTs/hqdefault.jpg" group-title="Tamil Child Songs",கரடி மாமா
-https://www.youtube.com/watch?v=_WBnUl32GTs
+#EXTM3U
+#EXTINF:0 tvg-name="கரடி மாமா" tvg-logo="https://i.ytimg.com/vi/_WBnUl32GTs/hqdefault.jpg" group-title="Tamil Child Songs",கரடி மாமா
+plugin://plugin.video.youtube/play/?video_id=_WBnUl32GTs
 #EXTINF:0 tvg-name="குரங்கு மாமா" tvg-logo="https://i.ytimg.com/vi/DPp9pyUzo7c/hqdefault.jpg" group-title="Tamil Child Songs",குரங்கு மாமா
-https://www.youtube.com/watch?v=DPp9pyUzo7c
+plugin://plugin.video.youtube/play/?video_id=DPp9pyUzo7c
 #EXTINF:0 tvg-name="10 paisa Balloon" tvg-logo="https://i.ytimg.com/vi/pQH9ip2Whc4/hqdefault.jpg" group-title="Tamil Child Songs",10 paisa Balloon
-https://www.youtube.com/watch?v=pQH9ip2Whc4
+plugin://plugin.video.youtube/play/?video_id=pQH9ip2Whc4
 #EXTINF:0 tvg-name="Kuruvi Paranthu" tvg-logo="https://i.ytimg.com/vi/QSQkEzEUzSQ/hqdefault.jpg" group-title="Tamil Child Songs",Kuruvi Paranthu
-https://www.youtube.com/watch?v=QSQkEzEUzSQ
+plugin://plugin.video.youtube/play/?video_id=QSQkEzEUzSQ
 #EXTINF:0 tvg-name="Kokkarakko" tvg-logo="https://i.ytimg.com/vi/qfQw62_oNu8/hqdefault.jpg" group-title="Tamil Child Songs",Kokkarakko
-https://www.youtube.com/watch?v=qfQw62_oNu8
+plugin://plugin.video.youtube/play/?video_id=qfQw62_oNu8
 #EXTINF:0 tvg-name="Yanaiyare" tvg-logo="https://i.ytimg.com/vi/LZXIzNIjz-o/hqdefault.jpg" group-title="Tamil Child Songs",Yanaiyare
-https://www.youtube.com/watch?v=LZXIzNIjz-o
+plugin://plugin.video.youtube/play/?video_id=LZXIzNIjz-o
 #EXTINF:0 tvg-name="மாமன் அடிச்சானோ" tvg-logo="https://i.ytimg.com/vi/_qFqhBJzQZQ/hqdefault.jpg" group-title="Tamil Child Songs",மாமன் அடிச்சானோ
-https://www.youtube.com/watch?v=_qFqhBJzQZQ
+plugin://plugin.video.youtube/play/?video_id=_qFqhBJzQZQ
 #EXTINF:0 tvg-name="உருளைக் கிழங்." tvg-logo="https://i.ytimg.com/vi/QZayTPWdkGU/hqdefault.jpg" group-title="Tamil Child Songs",உருளைக் கிழங்.
-https://www.youtube.com/watch?v=QZayTPWdkGU
+plugin://plugin.video.youtube/play/?video_id=QZayTPWdkGU
 #EXTINF:0 tvg-name="யானை ராஜா" tvg-logo="https://i.ytimg.com/vi/Um_ab3iJT00/hqdefault.jpg" group-title="Tamil Child Songs",யானை ராஜா
-https://www.youtube.com/watch?v=Um_ab3iJT00
+plugin://plugin.video.youtube/play/?video_id=Um_ab3iJT00
 #EXTINF:0 tvg-name="சோம்பேறி" tvg-logo="https://i.ytimg.com/vi/awl9CJQfAb8/hqdefault.jpg" group-title="Tamil Child Songs",சோம்பேறி
-https://www.youtube.com/watch?v=awl9CJQfAb8
+plugin://plugin.video.youtube/play/?video_id=awl9CJQfAb8
 #EXTINF:0 tvg-name="கியாங் கியாங் குருவி" tvg-logo="https://i.ytimg.com/vi/tSKm1oE7Id0/hqdefault.jpg" group-title="Tamil Child Songs",கியாங் கியாங் குருவி
-https://www.youtube.com/watch?v=tSKm1oE7Id0
-#EXTINF:0 tvg-name="நாங்க காட்டுக்கு போறோம்" tvg-logo="https://i.ytimg.com/vi/PZ0
+plugin://plugin.video.youtube/play/?video_id=tSKm1oE7Id0
+#EXTINF:0 tvg-name="நாங்க காட்டுக்கு போறோம்" tvg-logo="https://i.ytimg.com/vi/PZ0cB7f1gy8/hqdefault.jpg" group-title="Tamil Child Songs",நாங்க காட்டுக்கு போறோம்
+plugin://plugin.video.youtube/play/?video_id=PZ0cB7f1gy8
