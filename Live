@@ -5,8 +5,8 @@ https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
 #EXTINF:-1,NDTVLANKA Tamil
 https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id="AsiaTV.lk@HD",Asia TV
-https://stream.asiatvnet.com/1/live/master.m3u8
+#EXTINF:-1 tvg-id="AsiaTV.lk@HD",Raj digital plus
+httpss://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
 #EXTINF:-1 tvg-id="murasu " tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/isaiaruvi-tv.png",kalaigner
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 #EXTINF:-1 tvg-id="murasu " tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/isaiaruvi-tv.png",Murasu Tv
