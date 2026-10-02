@@ -16,7 +16,7 @@ https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/mas
 #EXTINF:-1 tvg-name="Colors Tamil HD" group-title="Tamil",Colors Tamil HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/chunklist_b896000.m3u8
 #EXTINF:-1 tvg-name="Star Vijay UK" group-title="Tamil",Star Vijay
-https://as-net.keralive.workers.dev/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starvijay_live_https/178054b8-8925-4ce8-ba6a-d254a55c2c04/0.m3u8?hdntl=exp=1790917233~acl=%2f*~data=hdntl~hmac=1b1029202a974851d1bdb72f1ba1e09159aa9c39f5d77afb8834dc15d002ccba
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
 
 # --- LOCAL CHANNELS ---
 #EXTINF:-1 tvg-name="Akash Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240328_0707478441275345469539566.png" group-title="Local Channels",Akash Tv
