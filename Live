@@ -111,8 +111,8 @@ https://galaxyott.live/hls/sanatv.m3u8
 https://stream.rojatv.cloud/rojatv/rojatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Movies",Roja TV
 https://live.rojatv.cloud/rojatv/rojatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Movies",sardhar2
-https://cdn1.einthusan.io/etv/content/DS4sm.mp4.m3u8?e=1791068364&md5=yR32VqxYCYzIc9b0POiqVg
+#EXTINF:-1 group-title="Movies",sar
+https://cdn1.einthusan.io/etv/content/DS4sm.mp4.m3u8?e=1791069923&md5=pHgdRGdVhJLI2IazYV7yww
 #EXTINF:-1 group-title="Movies",WebCric Live
 https://cdn1008.cdn-tnmr.org/hls2/03/04303/kt8ph8zyziw8_h/master.m3u8
 
