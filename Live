@@ -111,8 +111,8 @@ https://galaxyott.live/hls/sanatv.m3u8
 https://stream.rojatv.cloud/rojatv/rojatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Movies",Roja TV
 https://live.rojatv.cloud/rojatv/rojatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Movies",KARA
-https://bfct3wig891s.tnmr.org/hls2/02/03820/,fr2e4mqyr21k_h,lang/eng/fr2e4mqyr21k_eng,.urlset/master.m3u8
+#EXTINF:-1 group-title="Movies",sardhar2
+https://cdn1.einthusan.io/etv/content/DS4sm.mp4.m3u8?e=1791068364&md5=yR32VqxYCYzIc9b0POiqVg
 #EXTINF:-1 group-title="Movies",WebCric Live
 https://cdn1008.cdn-tnmr.org/hls2/03/04303/kt8ph8zyziw8_h/master.m3u8
 
@@ -180,28 +180,3 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #EXTINF:-1 group-title="International",Geography Arabic
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
 
-# --- TAMIL CHILD SONGS ---
-#EXTINF:-1 tvg-name="கரடி மாமா" group-title="Tamil Child Songs",கரடி மாமா
-plugin://plugin.video.youtube/play/?video_id=_WBnUl32GTs
-#EXTINF:-1 tvg-name="குரங்கு மாமா" group-title="Tamil Child Songs",குரங்கு மாமா
-plugin://plugin.video.youtube/play/?video_id=DPp9pyUzo7c
-#EXTINF:-1 tvg-name="10 paisa Balloon" group-title="Tamil Child Songs",10 paisa Balloon
-plugin://plugin.video.youtube/play/?video_id=pQH9ip2Whc4
-#EXTINF:-1 tvg-name="Kuruvi Paranthu" group-title="Tamil Child Songs",Kuruvi Paranthu
-plugin://plugin.video.youtube/play/?video_id=QSQkEzEUzSQ
-#EXTINF:-1 tvg-name="Kokkarakko" group-title="Tamil Child Songs",Kokkarakko
-plugin://plugin.video.youtube/play/?video_id=qfQw62_oNu8
-#EXTINF:-1 tvg-name="Yanaiyare" group-title="Tamil Child Songs",Yanaiyare
-plugin://plugin.video.youtube/play/?video_id=LZXIzNIjz-o
-#EXTINF:-1 tvg-name="மாமன் அடிச்சானோ" group-title="Tamil Child Songs",மாமன் அடிச்சானோ
-plugin://plugin.video.youtube/play/?video_id=_qFqhBJzQZQ
-#EXTINF:-1 tvg-name="உருளைக் கிழங்." group-title="Tamil Child Songs",உருளைக் கிழங்.
-plugin://plugin.video.youtube/play/?video_id=QZayTPWdkGU
-#EXTINF:-1 tvg-name="யானை ராஜா" group-title="Tamil Child Songs",யானை ராஜா
-plugin://plugin.video.youtube/play/?video_id=Um_ab3iJT00
-#EXTINF:-1 tvg-name="சோம்பேறி" group-title="Tamil Child Songs",சோம்பேறி
-plugin://plugin.video.youtube/play/?video_id=awl9CJQfAb8
-#EXTINF:-1 tvg-name="கியாங் கியாங் குருவி" group-title="Tamil Child Songs",கியாங் கியாங் குருவி
-plugin://plugin.video.youtube/play/?video_id=tSKm1oE7Id0
-#EXTINF:-1 tvg-name="நாங்க காட்டுக்கு போறோம்" group-title="Tamil Child Songs",நாங்க காட்டுக்கு போறோம்
-plugin://plugin.video.youtube/play/?video_id=PZ0cB7f1gy8
