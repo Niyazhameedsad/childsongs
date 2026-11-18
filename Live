@@ -159,12 +159,13 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
 # --- SPORTS - CRICKET ---
-#EXTINF:-1 group-title="Sports - Cricket",vasantham
+#EXTM3U
+#EXTINF:-1 group-title="Sports - Cricket",Vasantham
 https://play.comcities.net/t/efiUeaC6VNFU25VYXoOjFw/1794930362/dvr/VasanthamTV/delay-600.m3u8
-#EXTINF:-1 group-title="Sports - Cricket",itn
+#EXTINF:-1 group-title="Sports - Cricket",ITN
 https://play.comcities.net/t/oijJoYzC4Gtlek83vX_oGQ/1794928226/dvr/itn/delay-600.m3u8
-#EXTINF:-1 group-title="International",Cbuzz
-rolextv.one/live/8435630013/1234512345/140.m3u8
+#EXTINF:-1 group-title="International",CBuzz
+https://rolextv.one/live/8435630013/1234512345/140.m3u8
 # --- OTHER ---
 
 #EXTINF:-1 group-title="Cooking",Jordan Kitchen (1080p)
